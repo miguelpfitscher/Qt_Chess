@@ -1,0 +1,30 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>img/bpeao.png</file>
+        <file>img/bbishop.png</file>
+        <file>img/bhorse.png</file>
+        <file>img/bking.png</file>
+        <file>img/bqueen.png</file>
+        <file>img/btower.png</file>
+        <file>img/wbishop.png</file>
+        <file>img/whorse.png</file>
+        <file>img/wking.png</file>
+        <file>img/wpeao.png</file>
+        <file>img/wqueen.png</file>
+        <file>img/wtower.png</file>
+        <file>img/checkmate.png</file>
+        <file>img/salvo.png</file>
+        <file>img/check.png</file>
+        <file>img/miniwtower.png</file>
+        <file>img/miniwqueen.png</file>
+        <file>img/miniwhorse.png</file>
+        <file>img/minibtower.png</file>
+        <file>img/minibqueen.png</file>
+        <file>img/minibpeao.png</file>
+        <file>img/minibhorse.png</file>
+        <file>img/minibbishop.png</file>
+        <file>img/miniwbishop.png</file>
+        <file>img/miniwpeao.png</file>
+        <file>img/stalemate.png</file>
+    </qresource>
+</RCC>
